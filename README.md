@@ -1,7 +1,7 @@
 ### Looking for something?
-When you found nothing on my public social media pages so you stalked my GitHub instead...
+Yes, I'm a 10x developer
 
-Anyway, since you've made it this far, you might as well check out some of my codes from like years ago which I myself can't figure out its logic now.
+(that kind of 10x who takes 10 times longer to get something done)
 
 <!---
 keanutaufan/keanutaufan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
